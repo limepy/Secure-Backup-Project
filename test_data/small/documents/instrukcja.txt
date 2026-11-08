@@ -1,0 +1,3 @@
+To jest przykładowy plik krytyczny.
+Jego zawartość posłuży do sprawdzania manifestu i odtworzenia.
+
